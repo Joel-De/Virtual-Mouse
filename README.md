@@ -1,5 +1,5 @@
 # Virtual-Mouse
-Tiny program I made in an afternoon to learn how to interface OpenMV and Windows
+Tiny program I made in a few days to learn how to interface OpenMV and Windows over a USB connection.
 
 ![Virtualmouse](https://user-images.githubusercontent.com/71618484/93733934-4db36700-fba5-11ea-957b-f84291a57a28.gif)
 
